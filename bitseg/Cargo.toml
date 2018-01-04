@@ -1,0 +1,10 @@
+[package]
+name = "bitseg"
+version = "0.1.0"
+authors = ["Cheung Chifung <chifung.cheung@gmail.com>"]
+
+[dependencies]
+libc = "0.2.35"
+quickcheck = "0.6.0"
+compacts = "0.6.5"
+linked-hash-map = "0.5.0"
